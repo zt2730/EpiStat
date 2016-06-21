@@ -1,4 +1,4 @@
-##
+##update at JUN20/2016
 bigcor <- function(x, nblocks = 10, verbose = TRUE, ...)
 {
   library(ff, quietly = TRUE)
